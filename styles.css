@@ -1,0 +1,17 @@
+div.section{
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.section a{
+    display: inline-block;
+    color:white;
+    text-align: right;
+    padding: 14px;
+    text-decoration: none;
+}
+
+div.section a:hover{
+    background-color: #777;
+}
